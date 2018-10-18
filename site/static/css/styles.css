@@ -2716,3 +2716,13 @@ table > tbody > tr:nth-of-type(odd) {
 .alert {
     font-size: 95%;
 }
+
+blockquote {
+    margin: 0 0.5rem;
+    padding: 0 0.5rem;
+    border-left: 1px solid grey;
+}
+
+pre {
+    padding: 0.5rem;
+}
